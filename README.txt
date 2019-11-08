@@ -14,4 +14,3 @@ The requirements for the above code to run are as follows
    -> pip install Appium-Python-Client
    -> pip install selenium
    -> pip install pytest-html
-   -> 
